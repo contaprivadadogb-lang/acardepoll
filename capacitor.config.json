@@ -1,0 +1,6 @@
+{
+  "appId": "com.acardepoll.game",
+  "appName": "AcardePoll",
+  "webDir": "www",
+  "android": { "allowMixedContent": true }
+}
